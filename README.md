@@ -83,8 +83,8 @@ I build practical, production-minded projects with clean architecture, reliable 
 ### GitHub Insights
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jfmonterocortes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfmonterocortes&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jfmonterocortes&theme=tokyonight"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jfmonterocortes&theme=tokyonight"/>
 </p>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jfmonterocortes&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
