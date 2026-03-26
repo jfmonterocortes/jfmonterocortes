@@ -1,26 +1,15 @@
-﻿# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00C2FF&width=980&lines=Hi%2C+I'm+Juan+Felipe+Montero+Cortes;Software+Engineering+Technology+Student;Backend+%26+Systems+Developer;Building+real-world+software+systems)](https://git.io/typing-svg)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+﻿# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00C2FF&width=980&lines=Hi%2C+I'm+Juan+Felipe+Montero+Cortes;Software+Engineering+Technology+Student;Backend+%26+Systems+Developer;Currently+building+AI+tools+for+job+applications)](https://git.io/typing-svg)
 
-<img align="right" alt="Coding gif" width="390" src="https://giffiles.alphacoders.com/222/222829.gif">
-
-### Software Engineering Technology Student | Backend & Systems Developer building real-world software systems
+![Visitors](https://komarev.com/ghpvc/?username=jfmonterocortes&color=00C2FF&style=flat-square)
 
 🎓 **Software Engineering Technology @ Conestoga College** <br>
 📍 **Waterloo, Ontario, Canada** <br>
 ⚙️ **Focus:** Backend development, systems design, APIs, networking, databases <br>
 🎯 **Career track:** Software Developer Co-op | Backend Developer | Systems-oriented roles <br>
+🤝 **Open to:** Software Developer Co-op — Summer 2026 & Fall 2026 <br>
 🌐 **Portfolio:** [bypipe.vercel.app](https://bypipe.vercel.app) <br>
 
-I build practical, production-minded projects with clean architecture, reliable backend logic, and technical depth.
-
----
-
-### About Me
-
-- Studying **Software Engineering Technology** at **Conestoga College**
-- Building projects centered on **backend services, data flow, and maintainable system design**
-- Currently focused on **distributed systems, networked applications, and database-driven engineering**
-- Preparing for **co-op and early-career backend/systems roles** where project quality and execution stand out
+I find a problem, build the tool to solve it, then move on to the next one.
 
 ---
 
@@ -49,7 +38,6 @@ I build practical, production-minded projects with clean architecture, reliable 
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
   <br>
@@ -66,21 +54,35 @@ I build practical, production-minded projects with clean architecture, reliable 
 
 ### Featured Projects
 
-- **TaskTrackerAPI**  
-  RESTful task management API with structured validation, persistence, and backend-first architecture.  
+- **Co-op Application Agent**
+  AI-powered pipeline that tailors resumes and cover letters to job postings using GPT-4, with Notion integration for application tracking.
+  ![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB) ![OpenAI](https://img.shields.io/badge/OpenAI-111827?style=flat-square&logo=openai&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-111827?style=flat-square&logo=notion&logoColor=white)
+  🔗 [github.com/jfmonterocortes/coop-application-agent](https://github.com/jfmonterocortes/coop-application-agent)
+
+- **TaskTrackerAPI**
+  RESTful task management API with structured validation, persistence, and backend-first architecture.
+  ![C#](https://img.shields.io/badge/C%23-111827?style=flat-square&logo=csharp&logoColor=512BD4) ![.NET](https://img.shields.io/badge/.NET-111827?style=flat-square&logo=dotnet&logoColor=512BD4) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=336791)
   🔗 [github.com/jfmonterocortes/TaskTrackerAPI](https://github.com/jfmonterocortes/TaskTrackerAPI)
 
-- **MessagingApp**  
-  Messaging platform focused on real-time communication patterns and reliable client-server interactions.  
+- **MessagingApp**
+  Messaging platform focused on real-time communication patterns and reliable client-server interactions.
+  ![C#](https://img.shields.io/badge/C%23-111827?style=flat-square&logo=csharp&logoColor=512BD4) ![.NET](https://img.shields.io/badge/.NET-111827?style=flat-square&logo=dotnet&logoColor=512BD4) ![SQL Server](https://img.shields.io/badge/SQL%20Server-111827?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927)
   🔗 [github.com/jfmonterocortes/MessagingApp](https://github.com/jfmonterocortes/MessagingApp)
 
-- **Restaurant Management System**  
-  System for handling restaurant operations, business logic, and data workflows end-to-end.  
+- **Restaurant Management System**
+  System for handling restaurant operations, business logic, and data workflows end-to-end.
+  ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=node.js&logoColor=5FA04E) ![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=336791)
   🔗 [github.com/jfmonterocortes/restaurant-management-system](https://github.com/jfmonterocortes/restaurant-management-system)
 
-- **Cattle Weighing System**  
-  Applied software solution for capturing, processing, and reporting livestock weight data accurately.  
+- **Cattle Weighing System**
+  Applied software solution for capturing, processing, and reporting livestock weight data accurately.
+  ![C#](https://img.shields.io/badge/C%23-111827?style=flat-square&logo=csharp&logoColor=512BD4) ![WPF](https://img.shields.io/badge/WPF-111827?style=flat-square&logo=windows&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-111827?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927)
   🔗 [github.com/jfmonterocortes/cattle-weighing-system](https://github.com/jfmonterocortes/cattle-weighing-system)
+
+- **Portfolio API**
+  REST API powering my portfolio site — built with Node.js and PostgreSQL, handling skills and project data.
+  ![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=node.js&logoColor=5FA04E) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=336791) ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E)
+  🔗 [github.com/jfmonterocortes/portfolio-api](https://github.com/jfmonterocortes/portfolio-api)
 
 ---
 
