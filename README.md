@@ -9,6 +9,7 @@
 📍 **Waterloo, Ontario, Canada** <br>
 ⚙️ **Focus:** Backend development, systems design, APIs, networking, databases <br>
 🎯 **Career track:** Software Developer Co-op | Backend Developer | Systems-oriented roles <br>
+🌐 **Portfolio:** [bypipe.vercel.app](https://bypipe.vercel.app) <br>
 
 I build practical, production-minded projects with clean architecture, reliable backend logic, and technical depth.
 
@@ -34,6 +35,9 @@ I build practical, production-minded projects with clean architecture, reliable 
   </a>
   <a href="https://github.com/jfmonterocortes">
     <img src="https://img.shields.io/badge/GitHub-0B0F19?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://bypipe.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
